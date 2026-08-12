@@ -1,0 +1,69 @@
+
+S
+3
+__dummy"
+__dummy_idJcurriculum_industry_skillgap
+›ŸğÓ˜Ã˜º›ŸğÓ˜Ã˜º
+„
+d
+
+reg_number,Unique registration number of a CSE graduate"
+REG_NumberJcurriculum_industry_skillgap
+›ŸğÓ¸ë’»›ŸğÓ¸ë’»1"$e21878c2-5302-4916-ad09-b73ed357ef6c*’¢ğÓ¸»ˆ#2é
+µ
+graduate_skill_featurescurriculum_industry_skillgap
+reg_number"
+CGPA"
+Internship_Months"
+Projects_Count"
+Certifications_Count"
+Python_Skill"
+	SQL_Skill"
+	DSA_Skill"
+
+DBMS_Skill"
+	OOP_Skill"
+Cloud_Computing_Skill"
+Machine_Learning_Skill"
+Communication_Skill"
+Problem_Solving_Skill"
+Overall_Skill_Gap"
+Skill_Alignment_Percentage"
+High_Priority_Gap_Count"
+Employability_Score2€†°–:›event_timestampZ../feature_data.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢../feature_data.parquet’›ŸğÓÀ¢Ëï"›ŸğÓ ä¹@R9CSE graduate curriculum-industry skill alignment featuresb
+
+REG_Number’latest/
+›ŸğÓ¸ôŒ¼’¢ğÓ¨§Ë"
+€òÖÊ ÷ûÔ0R«
+¨
+,feast.infra.online_stores.sqlite.SqliteTable"x
+@C:\Users\bakka\Mlops_feast_skill_gap\feature_repo\data\online.db4curriculum_industry_skillgap_graduate_skill_featuresbºevent_timestampZ../feature_data.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢../feature_data.parquetªcurriculum_industry_skillgap’›ŸğÓÀ¢Ëï"›ŸğÓ ä¹Š>
+
+curriculum_industry_skillgap
+›ŸğÓğŞÿñ›ŸğÓğŞÿñ’Õ
+Ò
+graduate_skill_featurescurriculum_industry_skillgap"feature_view*Ö
+µ
+graduate_skill_featurescurriculum_industry_skillgap
+reg_number"
+CGPA"
+Internship_Months"
+Projects_Count"
+Certifications_Count"
+Python_Skill"
+	SQL_Skill"
+	DSA_Skill"
+
+DBMS_Skill"
+	OOP_Skill"
+Cloud_Computing_Skill"
+Machine_Learning_Skill"
+Communication_Skill"
+Problem_Solving_Skill"
+Overall_Skill_Gap"
+Skill_Alignment_Percentage"
+High_Priority_Gap_Count"
+Employability_Score2€†°–:›event_timestampZ../feature_data.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢../feature_data.parquet’›ŸğÓÀ¢Ëï"›ŸğÓ ä¹@R9CSE graduate curriculum-industry skill alignment featuresb
+
+REG_Number’latest
+›ŸğÓ¸ôŒ¼›ŸğÓ¸ôŒ¼2›ŸğÓ¨¯ƒ¾B$906065a3-a41c-4b24-9e1c-c3a9dcc4fe05
